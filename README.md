@@ -1,6 +1,8 @@
 # Advertisement_Success_Prediction
 A Binary Classification problem to predict whether the revenue generated will cover costs to produce and air the ad(Whether there will be a net gain from an ad or not).
 
+This is an Assessment Task, and thus, the Dataset(s) is not shared in the repository.
+
 ## Overview
 The holiday season is just around the corner—Christmas trees have been decorated, lights and wreaths hung, streets all decked up, Santa costumes rented out, and holiday cards in the mailbox.
 
