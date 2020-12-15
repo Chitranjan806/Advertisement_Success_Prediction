@@ -22,4 +22,4 @@ Submissions are evaluated using [F1_Score(Binary)](https://scikit-learn.org/stab
 |***Cat Boost Classifier***    |0.61420       |0.53378           |
 |***XGBoost Classifier***      |0.54720       |0.54442           |
 
-<b>As observed from the above table of F1 Scores, the ***best results were obtained using XGBoost Classifier*** algorithm. Thus, the predictions saved as ***'submission.csv'*** is performed using XGBoostClassifier.</b>
+As observed from the above table of F1 Scores, the ***best results were obtained using XGBoost Classifier*** algorithm. Thus, the predictions saved as ***'submission.csv'*** is performed using XGBoostClassifier.
